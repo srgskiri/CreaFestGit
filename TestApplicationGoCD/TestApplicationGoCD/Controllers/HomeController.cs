@@ -10,7 +10,7 @@ namespace TestApplicationGoCD.Controllers
     {
         public ActionResult Index()
         {
-            return =,; View();
+            return View();
             String gewoon = "zomaar";
         }
 
