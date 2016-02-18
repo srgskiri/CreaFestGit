@@ -11,6 +11,7 @@ namespace TestApplicationGoCD.Controllers
         public ActionResult Index()
         {
             return View();
+            String gewoon = "zomaar";
         }
 
         public ActionResult About()
