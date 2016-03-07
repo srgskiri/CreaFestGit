@@ -16,5 +16,10 @@ namespace TestApplicationGoCD.Services
         {
             return 4;
         }
+
+        public int EenAndereFunctie()
+        {
+            return 4;
+        }
     }
 }
