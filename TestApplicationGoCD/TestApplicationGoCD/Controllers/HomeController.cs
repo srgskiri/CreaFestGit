@@ -11,12 +11,14 @@ namespace TestApplicationGoCD.Controllers
         public ActionResult Index()
         {
             return View();
+
             String gewoon = "zomaar";
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+
 
             return View();
         }
