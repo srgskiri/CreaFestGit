@@ -67,3 +67,4 @@ C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Micr
 C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\obj\Debug\MyWebApp.csprojResolveAssemblyReference.cache
 C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\obj\Debug\MyWebApp.dll
 C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\obj\Debug\MyWebApp.pdb
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\MyLibrary4Web.dll

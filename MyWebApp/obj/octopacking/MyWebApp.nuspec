@@ -1,0 +1,134 @@
+<package>
+  <metadata>
+    <id>MyWebApp</id>
+    <version>1.0.1.0</version>
+    <authors>Srg</authors>
+    <owners>Srg</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MyWebApp deployment package, built on 24/03/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\favicon.ico" target="favicon.ico" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Global.asax" target="Global.asax" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Web.config" target="Web.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Web.Debug.config" target="Web.Debug.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Web.Release.config" target="Web.Release.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Web.config" target="Views\Web.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\_ExternalLoginsListPartial.cshtml" target="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ConfirmEmail.cshtml" target="Views\Account\ConfirmEmail.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ExternalLoginConfirmation.cshtml" target="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ExternalLoginFailure.cshtml" target="Views\Account\ExternalLoginFailure.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ForgotPassword.cshtml" target="Views\Account\ForgotPassword.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ForgotPasswordConfirmation.cshtml" target="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\Login.cshtml" target="Views\Account\Login.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\Register.cshtml" target="Views\Account\Register.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ResetPassword.cshtml" target="Views\Account\ResetPassword.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\ResetPasswordConfirmation.cshtml" target="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\SendCode.cshtml" target="Views\Account\SendCode.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Account\VerifyCode.cshtml" target="Views\Account\VerifyCode.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\AddPhoneNumber.cshtml" target="Views\Manage\AddPhoneNumber.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\ChangePassword.cshtml" target="Views\Manage\ChangePassword.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\Index.cshtml" target="Views\Manage\Index.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\ManageLogins.cshtml" target="Views\Manage\ManageLogins.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\SetPassword.cshtml" target="Views\Manage\SetPassword.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Manage\VerifyPhoneNumber.cshtml" target="Views\Manage\VerifyPhoneNumber.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Shared\Lockout.cshtml" target="Views\Shared\Lockout.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Views\Shared\_LoginPartial.cshtml" target="Views\Shared\_LoginPartial.cshtml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\csc.exe" target="bin\roslyn\csc.exe" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" target="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll" target="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" target="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets" target="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets" target="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\System.Collections.Immutable.dll" target="bin\roslyn\System.Collections.Immutable.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\System.Reflection.Metadata.dll" target="bin\roslyn\System.Reflection.Metadata.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\vbc.exe" target="bin\roslyn\vbc.exe" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\VBCSCompiler.exe" target="bin\roslyn\VBCSCompiler.exe" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\roslyn\VBCSCompiler.exe.config" target="bin\roslyn\VBCSCompiler.exe.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\MyWebApp.dll.config" target="bin\MyWebApp.dll.config" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\MyWebApp.dll" target="bin\MyWebApp.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\MyWebApp.pdb" target="bin\MyWebApp.pdb" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.Core.dll" target="bin\Microsoft.AspNet.Identity.Core.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll" target="bin\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.Owin.dll" target="bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.dll" target="bin\Microsoft.Owin.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll" target="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Cookies.dll" target="bin\Microsoft.Owin.Security.Cookies.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.dll" target="bin\Microsoft.Owin.Security.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Facebook.dll" target="bin\Microsoft.Owin.Security.Facebook.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Google.dll" target="bin\Microsoft.Owin.Security.Google.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll" target="bin\Microsoft.Owin.Security.MicrosoftAccount.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.OAuth.dll" target="bin\Microsoft.Owin.Security.OAuth.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Twitter.dll" target="bin\Microsoft.Owin.Security.Twitter.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\MyLibrary4Web.dll" target="bin\MyLibrary4Web.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Owin.dll" target="bin\Owin.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.Core.xml" target="bin\Microsoft.AspNet.Identity.Core.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.Owin.xml" target="bin\Microsoft.AspNet.Identity.Owin.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml" target="bin\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.xml" target="bin\Microsoft.Owin.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml" target="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.xml" target="bin\Microsoft.Owin.Security.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Facebook.xml" target="bin\Microsoft.Owin.Security.Facebook.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Cookies.xml" target="bin\Microsoft.Owin.Security.Cookies.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.OAuth.xml" target="bin\Microsoft.Owin.Security.OAuth.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Google.xml" target="bin\Microsoft.Owin.Security.Google.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.Twitter.xml" target="bin\Microsoft.Owin.Security.Twitter.xml" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml" target="bin\Microsoft.Owin.Security.MicrosoftAccount.xml" />
+  </files>
+</package>
