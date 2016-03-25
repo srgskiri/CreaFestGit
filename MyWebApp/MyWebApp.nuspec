@@ -1,14 +1,12 @@
 <package>
   <metadata>
     <id>MyWebApp</id>
-    <version>1.0.1.0</version>
+    <version>3.2.1.0</version>
     <authors>Srg</authors>
     <owners>Srg</owners>
-    <licenseUrl>http://example.com</licenseUrl>
-    <projectUrl>http://example.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The MyWebApp deployment package, built on 24/03/2016</description>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Release notes 11:27</releaseNotes>
   </metadata>
   <files>
     <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\bootstrap.css" target="Content\bootstrap.css" />
