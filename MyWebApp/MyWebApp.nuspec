@@ -1,12 +1,12 @@
 <package>
   <metadata>
     <id>MyWebApp</id>
-    <version>3.2.1.1</version>
-    <authors>Srgey</authors>
-    <owners>Srgey</owners>
+    <version>3.2.1.9</version>
+    <authors>Sergey</authors>
+    <owners>Sergey</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The MyWebApp app</description>
-    <releaseNotes>Release notes 11:35</releaseNotes>
+    <releaseNotes>Release notes 11:39;   MANY CHANGES</releaseNotes>
   </metadata>
   <files>
     <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\bootstrap.css" target="Content\bootstrap.css" />
