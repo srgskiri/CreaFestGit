@@ -6,7 +6,7 @@
     <owners>Sergey</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The MyWebApp app</description>
-    <releaseNotes>new index layout in home</releaseNotes>
+    <releaseNotes>just a new version number</releaseNotes>
   </metadata>
   <files>
     <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyWebApp\MyWebApp\Content\bootstrap.css" target="Content\bootstrap.css" />
