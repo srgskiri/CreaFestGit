@@ -6,7 +6,7 @@
       <Parameter Name="SomeActorServiceActorService_TargetReplicaSetSize" DefaultValue="3" />
    </Parameters>
    <ServiceManifestImport>
-      <ServiceManifestRef ServiceManifestName="SomeActorServicePkg" ServiceManifestVersion="1.0.0" />
+      <ServiceManifestRef ServiceManifestName="SomeActorServicePkg" ServiceManifestVersion="1.0.2" />
    </ServiceManifestImport>
    <DefaultServices>
       <Service Name="SomeActorServiceActorService" GeneratedIdRef="f1669162-59b7-46ea-893a-f05288812636|Persisted">
