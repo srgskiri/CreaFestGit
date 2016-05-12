@@ -1,0 +1,1 @@
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\Continuous Delivery & Service Fabric\MyWebApp\ActorService\obj\x64\Debug\ActorService.sfprojResolveAssemblyReference.cache
